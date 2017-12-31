@@ -1,6 +1,6 @@
 #Update spreadsheet first
 
-setwd("/home/jirong/Desktop/personal finance")
+setwd("/home/jirong/Desktop/personal-finance")
 library(shiny)
 #To test application
 # runApp()
