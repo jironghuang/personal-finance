@@ -1,6 +1,19 @@
-library("googlesheets")
+# https://github.com/jennybc/googlesheets/blob/master/vignettes/managing-auth-tokens.md
 
-gs_ls()
+setwd("/home/jirong/Desktop/personal-finance")
+
+library("googlesheets")
+# token <- gs_auth(cache = FALSE)
+# gd_token()
+# saveRDS(token, file = "googlesheets_token.rds")
+
+# gs_ls()
+
+gs_auth(token = "googlesheets_token.rds")
+## and you're back in business, using the same old token
+## if you want silence re: token loading, use this instead
+suppressMessages(gs_auth(token = "googlesheets_token.rds", verbose = FALSE))
+
 dat = gs_title("JR_Investment")
 gs_ws_ls(dat)   #tab names
 data <- gs_read(ss=dat, ws = "monthly_dashboard", skip=0)

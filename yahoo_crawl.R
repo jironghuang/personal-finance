@@ -8,16 +8,15 @@ library("stringr")
 library("RCurl")
 
 #Change your working directory here
-
-
 if( .Platform$OS.type == "windows" ){
   wd = file.path("C:", "Users", "Huang Jirong", "Google Drive", "Shiny","yahoo prices", fsep = .Platform$file.sep)
 }else{
-  wd = "/home/jirong/Desktop/personal finance"
+  wd = "/home/jirong/Desktop/personal-finance"
 }
 
-
 setwd(wd)
+
+source("/home/jirong/Desktop/personal-finance/auth.R")
 
 ###################################Scraping direclty from website########################
 #########################################################################################
@@ -119,10 +118,10 @@ yahoo_list$Change_fr_52_week_low = (yahoo_list$Price - yahoo_list$fifty_two_week
 
 write.csv(yahoo_list,"yahoo_info.csv",row.names = FALSE)
 
-library("googlesheets")
-
-gs_ls()
-dat = gs_title("JR_Investment")
+# library("googlesheets")
+# 
+# gs_ls()
+# dat = gs_title("JR_Investment")
 
 dat <- dat %>%
   gs_edit_cells(ws = "Yahoo", input = yahoo_list, trim = TRUE)
