@@ -1,0 +1,22 @@
+"Ticker","Nil_col","Name","Price","P.E","PEG","Div.share","Price.Book","Change_from_50_day_MA","Change_from_200_day_MA","Change_fr_52_week_low","Change_fr_52_week_high","link","fifty_two_weekrange","fifty_two_weekhigh","fifty_two_weeklow"
+"^GSPC","Nil","S&amp;P 500",2779.66,NA,NA,NA,NA,NA,NA,0.155447478904269,-0.032444907009367,"https://finance.yahoo.com/quote/^GSPC?p=^GSPC","2,405.70 - 2,872.87",2872.87,2405.7
+"^VIX","Nil","CBOE Volatility Index",11.98,NA,NA,NA,NA,NA,NA,0.399532710280374,-0.76182902584493,"https://finance.yahoo.com/quote/^VIX?p=^VIX","8.56 - 50.30",50.3,8.56
+"2801.HK","Nil","ISHARES CHINA",29.65,NA,NA,NA,NA,NA,NA,0.309050772626932,-0.0848765432098765,"https://finance.yahoo.com/quote/2801.HK?p=2801.HK","22.650 - 32.400",32.4,22.65
+"2805.HK","Nil","VANGUARDASXJP",25.4,NA,NA,NA,NA,NA,NA,6.6969696969697,-0.0896057347670251,"https://finance.yahoo.com/quote/2805.HK?p=2805.HK","3.300 - 27.900",27.9,3.3
+"2821.HK","Nil","ABF Pan Asia Bond Index",115.25,NA,NA,NA,NA,NA,NA,NA,NA,"https://finance.yahoo.com/quote/2821.HK?p=2821.HK","",NA,NA
+"A35.SI","Nil","ABF SG BOND ETF",1.113,NA,NA,NA,NA,NA,NA,0.00451263537906128,-0.0567796610169491,"https://finance.yahoo.com/quote/A35.SI?p=A35.SI","1.108 - 1.180",1.18,1.108
+"AAXJ","Nil","iShares MSCI All Country Asia e",75.68,NA,NA,NA,NA,NA,NA,0.134292565947242,-0.0938697318007662,"https://finance.yahoo.com/quote/AAXJ?p=AAXJ","66.72 - 83.52",83.52,66.72
+"ADRE","Nil","Invesco BLDRS Emerging Markets ",43.06,NA,NA,NA,NA,NA,NA,0.13674762407603,-0.119787408013083,"https://finance.yahoo.com/quote/ADRE?p=ADRE","37.88 - 48.92",48.92,37.88
+"ISAC.L","Nil","ISHARES V PUBLIC LIMITED COMPAN",48.82,NA,NA,NA,NA,NA,NA,0.431251832307241,-0.0549748354626403,"https://finance.yahoo.com/quote/ISAC.L?p=ISAC.L","34.11 - 51.66",51.66,34.11
+"BIK","Nil","SPDR S&amp;P BRIC 40",20.97,NA,NA,NA,NA,NA,NA,0.393355481727575,-0.00616113744075841,"https://finance.yahoo.com/quote/BIK?p=BIK","15.05 - 21.10",21.1,15.05
+"TLT","Nil","iShares 20+ Year Treasury Bond ",120.38,NA,NA,NA,NA,NA,NA,0.0369540873460246,-0.0709269120938489,"https://finance.yahoo.com/quote/TLT?p=TLT","116.09 - 129.57",129.57,116.09
+"BKF","Nil","iShares MSCI BRIC Index Fund",44.43,NA,NA,NA,NA,NA,NA,0.200810810810811,-0.127797408716137,"https://finance.yahoo.com/quote/BKF?p=BKF","37.00 - 50.94",50.94,37
+"BYJ.SI","Nil","PHIL AP DIV REIT S$D",1.333,NA,NA,NA,NA,NA,NA,0.447339847991314,-0.00522388059701501,"https://finance.yahoo.com/quote/BYJ.SI?p=BYJ.SI","0.921 - 1.340",1.34,0.921
+"CHIM","Nil","Global X China Materials ETF",21.11,NA,NA,NA,NA,NA,NA,0.288766788766789,-0.124792703150912,"https://finance.yahoo.com/quote/CHIM?p=CHIM","16.380 - 24.120",24.12,16.38
+"CHIX","Nil","Global X China Financials ETF",18.27,NA,NA,NA,NA,NA,NA,0.198032786885246,-0.131653992395437,"https://finance.yahoo.com/quote/CHIX?p=CHIX","15.25 - 21.04",21.04,15.25
+"CVY","Nil","Invesco Zacks Multi-Asset Incom",22.48,NA,NA,NA,NA,NA,NA,0.0917921321029626,-0.0434042553191489,"https://finance.yahoo.com/quote/CVY?p=CVY","20.59 - 23.50",23.5,20.59
+"DEM","Nil","WisdomTree Emerging Markets Hig",44.28,NA,NA,NA,NA,NA,NA,0.0944142362827484,-0.119856887298748,"https://finance.yahoo.com/quote/DEM?p=DEM","40.46 - 50.31",50.31,40.46
+"RWO","Nil","SPDR DJ Wilshire Global Real Es",47.33,NA,NA,NA,NA,NA,NA,0.0766606005459508,-0.0420967415502934,"https://finance.yahoo.com/quote/RWO?p=RWO","43.96 - 49.41",49.41,43.96
+"GSG","Nil","iShares GSCI Commodity-Indexed ",17.03,NA,NA,NA,NA,NA,NA,0.293090356871678,-0.0699071545603494,"https://finance.yahoo.com/quote/GSG?p=GSG","13.17 - 18.31",18.31,13.17
+"EDIV","Nil","SPDR S&amp;P Emerging Markets Divid",31.87,NA,NA,NA,NA,NA,NA,0.0866007500852371,-0.130185589519651,"https://finance.yahoo.com/quote/EDIV?p=EDIV","29.33 - 36.64",36.64,29.33
+"EEM","Nil","iShares MSCI Emerging Index Fun",45.25,NA,NA,NA,NA,NA,NA,0.105816226783969,-0.131144393241167,"https://finance.yahoo.com/quote/EEM?p=EEM","40.92 - 52.08",52.08,40.92

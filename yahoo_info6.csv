@@ -1,0 +1,22 @@
+"Ticker","Nil_col","Name","Price","P.E","PEG","Div.share","Price.Book","Change_from_50_day_MA","Change_from_200_day_MA","Change_fr_52_week_low","Change_fr_52_week_high","link","fifty_two_weekrange","fifty_two_weekhigh","fifty_two_weeklow"
+"USDSGD=X","Nil","USD/SGD",1.3502,NA,NA,NA,NA,NA,NA,0.0375778068085762,-0.0296104642805806,"https://finance.yahoo.com/quote/USDSGD=X?p=USDSGD=X","1.3013 - 1.3914",1.3914,1.3013
+"VAPX.L","Nil","VANGUARD FUNDS PLC VANGUARD FTS",19.87,NA,NA,NA,NA,NA,NA,-0.0030105368790767,-0.213380839271576,"https://finance.yahoo.com/quote/VAPX.L?p=VAPX.L","19.93 - 25.26",25.26,19.93
+"VDEM.L","Nil","Vanguard FTSE Emerging Markets",59.03,NA,NA,NA,NA,NA,NA,0.0689967403114814,-0.0132062855232364,"https://finance.yahoo.com/quote/VDEM.L?p=VDEM.L","55.2200 - 59.8200",59.82,55.22
+"VEA","Nil","Vanguard FTSE Developed Markets",44.44,NA,NA,NA,NA,NA,NA,0.0870841487279842,-0.0720400918772187,"https://finance.yahoo.com/quote/VEA?p=VEA","40.88 - 47.89",47.89,40.88
+"VEU","Nil","Vanguard FTSE All World Ex US E",53.81,NA,NA,NA,NA,NA,NA,0.0853166599435257,-0.0864176570458403,"https://finance.yahoo.com/quote/VEU?p=VEU","49.58 - 58.90",58.9,49.58
+"VFEM.L","Nil","VANGUARD FUNDS PLC VANGUARD FTS",44.385,NA,NA,NA,NA,NA,NA,0.0946555848768097,-0.0854110859262313,"https://finance.yahoo.com/quote/VFEM.L?p=VFEM.L","40.547 - 48.530",48.53,40.547
+"VGK","Nil","Vanguard FTSEEuropean ETF",58.59,NA,NA,NA,NA,NA,NA,0.0732734933137937,-0.0787735849056603,"https://finance.yahoo.com/quote/VGK?p=VGK","54.59 - 63.60",63.6,54.59
+"VHT","Nil","VANGUARD WORLD FDS VANGUARD HEA",163.96,NA,NA,NA,NA,NA,NA,0.135614351018147,-0.0428488032691185,"https://finance.yahoo.com/quote/VHT?p=VHT","144.38 - 171.30",171.3,144.38
+"VNQI","Nil","Vanguard Global ex-U.S. Real Es",60.64,NA,NA,NA,NA,NA,NA,0.0945848375451264,-0.0699386503067485,"https://finance.yahoo.com/quote/VNQI?p=VNQI","55.40 - 65.20",65.2,55.4
+"VOO","Nil","Vanguard S&amp;P 500 ETF",255.71,NA,NA,NA,NA,NA,NA,0.160103438889393,-0.0290845578463758,"https://finance.yahoo.com/quote/VOO?p=VOO","220.42 - 263.37",263.37,220.42
+"VPL","Nil","Vanguard FTSE Pacific ETF",72.39,NA,NA,NA,NA,NA,NA,0.117474529175671,-0.0714468958440225,"https://finance.yahoo.com/quote/VPL?p=VPL","64.78 - 77.96",77.96,64.78
+"VSS","Nil","Vanguard FTSE All-Wld ex-US SmC",119.99,NA,NA,NA,NA,NA,NA,0.125293069492638,-0.056237218813906,"https://finance.yahoo.com/quote/VSS?p=VSS","106.63 - 127.14",127.14,106.63
+"VT","Nil","Vanguard Total World Stock Inde",75.65,NA,NA,NA,NA,NA,NA,0.128767532079976,-0.0512916980185602,"https://finance.yahoo.com/quote/VT?p=VT","67.02 - 79.74",79.74,67.02
+"VTI","Nil","Vanguard Total Stock Market ETF",144.15,NA,NA,NA,NA,NA,NA,0.167395529640428,-0.0185197793967454,"https://finance.yahoo.com/quote/VTI?p=VTI","123.48 - 146.87",146.87,123.48
+"VTSMX","Nil","Vanguard Index Trust Total Stoc",70.02,NA,NA,NA,NA,NA,NA,NA,NA,"https://finance.yahoo.com/quote/VTSMX?p=VTSMX",NA,NA,NA
+"VWO","Nil","Vanguard FTSE Emerging Markets ",44.2,NA,NA,NA,NA,NA,NA,0.0970464135021098,-0.133163365365758,"https://finance.yahoo.com/quote/VWO?p=VWO","40.29 - 50.99",50.99,40.29
+"VWRD.L","Nil","Vanguard FTSE All-World ETF",85.705,NA,NA,NA,NA,NA,NA,0.45213486953575,-0.00919075144508672,"https://finance.yahoo.com/quote/VWRD.L?p=VWRD.L","59.0200 - 86.5000",86.5,59.02
+"VWRL.L","Nil","VANGUARD FUNDS PLC VANGUARD FTS",64.445,NA,NA,NA,NA,NA,NA,0.107492696339577,-0.250726659690734,"https://finance.yahoo.com/quote/VWRL.L?p=VWRL.L","58.190 - 86.010",86.01,58.19
+"VXUS","Nil","Vanguard Total International St",56.07,NA,NA,NA,NA,NA,NA,0.0891608391608392,-0.0833742030407063,"https://finance.yahoo.com/quote/VXUS?p=VXUS","51.48 - 61.17",61.17,51.48
+"VXX","Nil","iPath S&amp;P 500 VIX Short Term Fu",31.64,NA,NA,NA,NA,NA,NA,0.23642047674873,-0.44138418079096,"https://finance.yahoo.com/quote/VXX?p=VXX","25.59 - 56.64",56.64,25.59
+"YAO","Nil","Invesco China All-Cap ETF",36.8827,NA,NA,NA,NA,NA,NA,0.263106164383562,-0.0758531696316712,"https://finance.yahoo.com/quote/YAO?p=YAO","29.2000 - 39.9100",39.91,29.2
